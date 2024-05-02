@@ -16,7 +16,7 @@ timezone:
 
 title: Xcodem # the main title
 
-tagline: Linux \ Homelab \ Tech Content Documentation # it will display as the sub-title
+tagline: Linux \ Homelab \ Tech Content Documentation \ Cloud # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
